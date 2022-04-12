@@ -7,3 +7,4 @@ Notes and Templates for Forensics &amp; OSINT Challenges
 ## websites
  - https://dorksearch.com/
  - https://www.shodan.io/explore
+ - https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography
